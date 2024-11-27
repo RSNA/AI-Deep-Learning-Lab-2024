@@ -12,8 +12,8 @@ The Medical Imaging Data and Resource Center (MIDRC) provides tools to help rese
 
 ## Speakers
 - Karen Drukker, PhD
-- Jordan Fuhrman, PhD
 - Chris Meyer, PhD
+- Jordan Fuhrman, PhD
 
 ## Outline
 ### 1. Intro to MIDRC Tools (Drukker)
